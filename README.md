@@ -1,5 +1,5 @@
 # Binocular Camera
-> 双目USB摄像头测试软件工程
+双目USB摄像头测试软件工程，可以在这里直接下载[可执行程序](https://github.com/ceoifung/BinocularCamera/releases/download/v1.0.0/BinocularCamera.exe)
 
 ## 1. 软件主界面
 
